@@ -147,3 +147,6 @@ scala WordCountExample
 |is   |    1|
 |fast |    1|
 +-----+-----+
+
+https://chatgpt.com/share/69faaf65-eb24-8320-9cc3-cb5ca9692f1b
+https://chatgpt.com/share/69fab310-0f3c-8322-844e-39ebe5fe1073
